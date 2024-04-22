@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    unsigned long n {0};
+    unsigned long long n {0};
     std::cin >> n;
     while (true) {
         std::cout << n << " ";
